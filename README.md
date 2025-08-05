@@ -16,14 +16,17 @@
 
    
 ###Tech Stack
-    #Frontend
+
+    # FrontEND
+    
 *   Nect.js 14: A React framework for building performant web applications.
 *   React 18: For building interactive user interfaces.
 *   Tailwind CSS: A utility-first CSS framework for rapid UI development.
 *   shadcn/ui: A collection of reusable UI components built with Radix UI and Tailwind CSS.
 *   Lucisw React: A library of beautiful and customizable open-source icons.
 
-    #Backend (Planned Integration for future updation)
+
+    #BackEND (Planned Integration for future updation)
 *   Python (Flask): For server-side logic and API endpoints.
 *   MongoDB: A NoSQL database for storing quiz data and user information.
 *   NLP/LLM: For potential future enhancements like question generation or analysis.
