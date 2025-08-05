@@ -1,5 +1,7 @@
 #AI-Powered NewQuiz
-This is a full-stack web application for an online education quiz portal. It allows users to take quizzes on various subjects and view a dashboard that shows the distribution of topics. The system is designed to be engaging and user-friendly, providing a seamless experience for learners.
+
+
+# This is a full-stack web application for an online education quiz portal. It allows users to take quizzes on various subjects and view a dashboard that shows the distribution of topics. The system is designed to be engaging and user-friendly, providing a seamless experience for learners.
 Features
  * Topic-Based Quizzes: Take quizzes categorized into different subjects like Tech, History, Maths, and Current Affairs.
  * Interactive User Interface: A clean and modern dashboard visually represents the percentage distribution of different quiz topics.
