@@ -17,7 +17,7 @@
    
 ## Tech Stack :-
 
-   !FrontEND
+   FrontEND
     
 *   Nect.js 14: A React framework for building performant web applications.
 *   React 18: For building interactive user interfaces.
@@ -26,7 +26,7 @@
 *   Lucisw React: A library of beautiful and customizable open-source icons.
 
 
-    ! BackEND (Planned Integration for future updation)
+  BackEND (Planned Integration for future updation)
     
 *   Python (Flask): For server-side logic and API endpoints.
 *   MongoDB: A NoSQL database for storing quiz data and user information.
